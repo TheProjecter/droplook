@@ -1,0 +1,3 @@
+DropLook is a utility which gives Quick Look a little more ubiquity. It sits in your dock, waiting for you to drop files onto it, and when you do it displays previews—exactly the same previews that Quick Look does—except the preview windows are ordinary windows which don’t vanish when you switch applications. Ideal for when you want to scan through a word processing or spreadsheet document while composing an e-mail, and don’t want to go to the trouble of launching ones of the Office, iWork or OpenOffice.org applications.
+
+For more information, please see DropLook’s [homepage](http://labs.jazzio.com/DropLook).

@@ -1,0 +1,1 @@
+DropLook issue tracking is handled by [Lighthouse](http://jazzio.lighthouseapp.com/projects/19131-droplook/). Please submit any bug reports or feature requests there.
